@@ -69,7 +69,7 @@ let step = () => {
       window.scrollTo(0, 99999999);
       html.scrollTo(0, 99999999);
     }
-  }, 10);
+  }, 50);
 };
 
 step();
